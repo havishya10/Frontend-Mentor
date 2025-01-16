@@ -62,12 +62,11 @@ footer {
   border-radius: 5px;
   font-size: 14px;
   font-weight: 600;
+  cursor: pointer;
 }
 .social-links a:hover {
   background: hsl(75, 94%, 57%);
   color: hsl(0, 0%, 8%);
-  font-weight: 500;
-  cursor: pointer;
 }
 img {
   width: 30%;
