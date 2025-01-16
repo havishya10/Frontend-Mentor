@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/havishya10/Frontend-Mentor/edit/main/social-links-profile/)
+- Live Site URL: (https://social-links-fm1.netlify.app)
 
 ## My process
 
@@ -40,7 +40,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 - LinkedIn - [Your Name](https://www.linkedin.com/in/yourusername)
