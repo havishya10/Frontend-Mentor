@@ -40,6 +40,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-- LinkedIn - [Your Name](https://www.linkedin.com/in/yourusername)
+- Frontend Mentor - [@havishya10](https://www.frontendmentor.io/profile/havishya10)
+- Twitter - [@havishyavally](https://x.com/HavishyaVally)
+- LinkedIn - [Havishya Vally Sunkara](https://www.linkedin.com/in/havishyavally/)
