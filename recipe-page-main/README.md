@@ -22,8 +22,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [view solution](https://your-solution-url.com)
+- Live Site URL: [view demo](https://recipe-pge.netlify.app)
 
 ## My process
 
@@ -44,7 +44,7 @@ Learned Bootstrap Grid System
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@havishya10](https://www.frontendmentor.io/profile/havishya10)
+- Twitter - [@havishyavally](https://x.com/HavishyaVally)
+- LinkedIn - [Havishya Vally Sunkara](https://www.linkedin.com/in/havishyavally/)
 
