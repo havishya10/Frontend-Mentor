@@ -22,7 +22,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [view solution](https://your-solution-url.com)
+- Solution URL: [view solution](https://www.frontendmentor.io/solutions/recipe-page-challenge-using-bootstrap-A5RgQYvExU)
 - Live Site URL: [view demo](https://recipe-pge.netlify.app)
 
 ## My process
