@@ -10,7 +10,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
-    - [Useful resources](#useful-resources)
+- [Font Information](#font-information)
 - [Author](#author)
 
 
@@ -24,8 +24,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://github.com/havishya10/Frontend-Mentor/tree/main/blog-preview-card-main)
+- Live Site URL: [demo](https://your-live-site-url.com)
 
 ## My process
 
