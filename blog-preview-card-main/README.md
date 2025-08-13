@@ -78,4 +78,4 @@ Font files included:
 
 ---
 
-Note: This project is a solution to a Frontend Mentor challenge and demonstrates implementation of modern CSS features and responsive design principles.
+Note: This project is a solution to a Frontend Mentor challenge and demonstrates implementation of Semantic HTML and responsive design principles.
